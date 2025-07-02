@@ -1,0 +1,48 @@
+1749037101880	geckodriver	INFO	Listening on 127.0.0.1:58093
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037101885	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMVe74n"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037297420	geckodriver	INFO	Listening on 127.0.0.1:60371
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037297426	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTtCIki"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037386062	geckodriver	INFO	Listening on 127.0.0.1:54021
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037386067	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJiV47c"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037799854	geckodriver	INFO	Listening on 127.0.0.1:36201
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037799905	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegDbzZU"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037876682	geckodriver	INFO	Listening on 127.0.0.1:45759
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749037876687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegqk5S6"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038016885	geckodriver	INFO	Listening on 127.0.0.1:34783
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038016890	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJnSAv8"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038378801	geckodriver	INFO	Listening on 127.0.0.1:55771
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038378807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNrjuys"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038387902	geckodriver	INFO	Listening on 127.0.0.1:58439
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038387909	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileh8b5Za"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038454158	geckodriver	INFO	Listening on 127.0.0.1:40761
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038454163	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesuxdtQ"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038545426	geckodriver	INFO	Listening on 127.0.0.1:54675
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038545430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8FMytL"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038596750	geckodriver	INFO	Listening on 127.0.0.1:35207
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038596753	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0vOLPf"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038621002	geckodriver	INFO	Listening on 127.0.0.1:49055
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
+1749038621007	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoOqYW5"
+/snap/firefox/current/firefox.launcher: 55: exec: /snap/pycharm-community/480/usr/lib/firefox/firefox: not found
